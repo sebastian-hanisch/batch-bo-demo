@@ -1,7 +1,6 @@
 # Parallele Auswertungen: Runden gegen Auswertungen – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-batch-bo-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-batch-bo-demo.streamlit.app/)**
 
 Sechstes Stück der **Bayessche-Optimierung-Linie** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
 Es setzt [bayes-opt-demo](https://github.com/sebastian-hanisch/bayes-opt-demo) fort und fragt, was passiert, wenn mehrere Auswertungen **gleichzeitig** laufen. Im Unterschied zu den
